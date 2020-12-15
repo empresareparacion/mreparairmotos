@@ -1,0 +1,90 @@
+[1121/150819.518:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/151932.510:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/152932.511:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/152932.514:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1121/152932.519:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/152932.520:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/183728.782:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/211207.506:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/211720.754:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/212720.755:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/212720.755:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1121/212720.758:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1121/212720.758:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/133242.360:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/163206.131:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/164206.133:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/164206.134:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1122/164206.136:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/164206.136:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/170412.597:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/171412.598:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/171412.598:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1122/171412.601:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/171412.601:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/171912.598:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/173412.600:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/174912.601:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/180412.601:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/181912.603:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/201007.813:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1122/201007.844:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/202007.845:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/202007.846:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1122/202007.848:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/202007.849:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/202507.849:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/204007.850:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/205507.851:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/210609.344:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/211609.346:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/211609.347:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1122/211609.349:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/211609.350:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/212109.361:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1122/213609.362:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/204159.511:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/205118.484:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/212348.253:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/213348.291:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/213348.292:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1123/213348.297:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/213348.298:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1123/213848.254:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/094924.463:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/095924.464:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/095924.465:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1124/095924.467:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/095924.468:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/100424.480:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/101214.267:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/102214.270:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/102214.271:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1124/102214.275:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/102214.275:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/102714.269:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/104214.271:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/171438.889:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1124/171438.905:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/213131.218:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/214131.219:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/214131.220:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1124/214131.223:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/214131.223:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1124/214631.219:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1125/052334.452:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1125/053334.453:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1125/053334.454:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1125/053334.456:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1125/053334.457:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1125/053834.484:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1126/164135.233:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1126/192819.801:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1201/205920.605:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1201/214914.129:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1203/222514.351:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1214/180040.193:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1214/180422.294:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1214/180500.438:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1214/180801.942:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1214/181305.840:ERROR:crash_report_database_win.cc(455)] unexpected header
